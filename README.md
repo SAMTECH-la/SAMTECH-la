@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br><br>🔭 Third-year B.Tech student building full-stack web projects<br>👯 Open to collaborating on web development projects<br>🤝 Looking for guidance in backend architecture and deployment<br>🌱 Currently learning advanced React and API-driven development<br>💬 Ask me about Full Stack Development <br>⚡ Fun fact: I enjoy converting ideas into functional web applications
+:<br><br>🔭 Fourth -year B.Tech student building full-stack web projects<br>👯 Open to collaborating on web development projects<br>🤝 Looking for guidance in backend architecture and deployment<br>🌱 Currently learning advanced React and API-driven development<br>💬 Ask me about Full Stack Development <br>⚡ Fun fact: I enjoy converting ideas into functional web applications
 
 
 ## 🌐 Socials:
